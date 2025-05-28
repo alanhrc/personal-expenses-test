@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#" target="blank"><img src="https://plus.unsplash.com/premium_vector-1731582097761-f87f0693cae5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGV4cGVuc2VzJTIwaG9yaXpvbnRhbHxlbnwwfHwwfHx8MA%3D%3D" width="210" height="140" alt="Money image" /></a>
+  <a href="https://github.com/alanhrc/personal-expenses-test" target="_blank"><img src="https://plus.unsplash.com/premium_vector-1731582097761-f87f0693cae5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGV4cGVuc2VzJTIwaG9yaXpvbnRhbHxlbnwwfHwwfHx8MA%3D%3D" width="210" height="140" alt="Money image" /></a>
 </p>
 
 ---
@@ -20,10 +20,10 @@
 
 ```bash
 ## Clone repo
-git clone https://github.com/your-username/your-repo.git
+git clone git@github.com:alanhrc/personal-expenses-test.git your-repo-name
 
 ## Open repo
-cd your-repo
+cd your-repo-name
 
 ## Project setup
 $ npm install
